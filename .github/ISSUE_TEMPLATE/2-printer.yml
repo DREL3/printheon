@@ -1,0 +1,35 @@
+name: "🖨️ Add my printer / Añadir mi impresora"
+description: "Your printer isn't in the list or something about it is wrong. / Tu impresora no está en la lista o algún dato está mal."
+body:
+  - type: input
+    id: model
+    attributes:
+      label: "Brand and model / Marca y modelo"
+      placeholder: "Creality K2 Plus"
+    validations:
+      required: true
+  - type: dropdown
+    id: firmware
+    attributes:
+      label: "Firmware"
+      options:
+        - Klipper
+        - Marlin
+        - Bambu Lab
+        - Prusa (Buddy / PrusaLink)
+        - RepRapFirmware (Duet)
+        - OctoPrint
+        - ESP3D
+        - "Other / Otro"
+        - "I don't know / No lo sé"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: "Official specs link / Enlace a la ficha oficial"
+      description: "The manufacturer's page, so the data is right. / La página del fabricante, para que los datos sean correctos."
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Anything else? / ¿Algo más?"

@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/impresoras-m%C3%A1s%20de%20350%20modelos%20y%20variantes-ff7a1a?style=flat-square" alt="Más de 350 impresoras">
   <img src="https://img.shields.io/badge/marcas-58-ff7a1a?style=flat-square" alt="58 marcas">
   <img src="https://img.shields.io/badge/conexiones-8%20tipos-ff7a1a?style=flat-square" alt="8 tipos de conexión">
-  <img src="https://img.shields.io/badge/precio-gratis-2ea44f?style=flat-square" alt="Gratis">
+  <img src="https://img.shields.io/badge/edici%C3%B3n-Free%20%C2%B7%20Premium%20en%20camino-2ea44f?style=flat-square" alt="Edición Free, Premium en camino">
   <img src="https://img.shields.io/badge/plataforma-Windows-0078d4?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/estado-en%20desarrollo-lightgrey?style=flat-square" alt="En desarrollo">
 </p>
@@ -24,11 +24,12 @@
   <a href="#lo-que-sustituye">Lo que sustituye</a> ·
   <a href="#funciones">Funciones</a> ·
   <a href="#todas-las-impresoras">Todas las impresoras</a> ·
+  <a href="#free-y-premium">Free y Premium</a> ·
   <a href="#estado">Estado</a>
 </p>
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Panel de Printheon" width="920">
+  <img src="assets/demo.gif" alt="Printheon en marcha" width="920">
 </p>
 
 ## Se acabó ir saltando de programa en programa
@@ -198,6 +199,12 @@ Además, el catálogo integrado trae la **ficha oficial de 254 modelos y 102 var
 
 </details>
 
+## Free y Premium
+
+**Todo lo que ves en esta página es Printheon Free.** Es la app completa para el día a día, gratis, sin límite de tiempo y sin anuncios.
+
+**Printheon Premium** llegará más adelante como una edición aparte y más grande, para quien de verdad entiende su máquina y quiere llevarla más lejos. Muchas más herramientas, pensadas para usuarios avanzados. Printheon Free no pierde nada porque exista Premium.
+
 ## Estado
 
 Printheon está en pleno desarrollo y **todavía no está publicada**. La enseño ya para saber qué necesita más la gente antes de la primera versión pública.
@@ -206,8 +213,8 @@ Printheon está en pleno desarrollo y **todavía no está publicada**. La enseñ
 |---|---|
 | **Plataforma** | App de escritorio para Windows |
 | **Idioma** | Español; el inglés viene después |
-| **Precio** | Gratis. Sin funciones de pago ni suscripciones |
-| **Apoyo** | Habrá un Patreon para quien quiera echar una mano. Agradecimientos y betas antes que nadie, nunca funciones bloqueadas |
+| **Ediciones** | Printheon Free (todo lo que ves aquí) y, más adelante, Printheon Premium para usuarios avanzados |
+| **Apoyo** | Habrá un Patreon para quien quiera ayudar a que el proyecto crezca |
 
 ## Tu opinión cuenta
 

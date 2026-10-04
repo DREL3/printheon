@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/printers-350%2B%20models%20%26%20variants-ff7a1a?style=flat-square" alt="350+ printers">
   <img src="https://img.shields.io/badge/brands-58-ff7a1a?style=flat-square" alt="58 brands">
   <img src="https://img.shields.io/badge/connections-8%20types-ff7a1a?style=flat-square" alt="8 connection types">
-  <img src="https://img.shields.io/badge/price-free-2ea44f?style=flat-square" alt="Free">
+  <img src="https://img.shields.io/badge/edition-Free%20%C2%B7%20Premium%20coming-2ea44f?style=flat-square" alt="Free edition, Premium coming">
   <img src="https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/status-in%20development-lightgrey?style=flat-square" alt="In development">
 </p>
@@ -24,11 +24,12 @@
   <a href="#what-it-replaces">What it replaces</a> ·
   <a href="#features">Features</a> ·
   <a href="#every-printer">Every printer</a> ·
+  <a href="#free-and-premium">Free and Premium</a> ·
   <a href="#status">Status</a>
 </p>
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Printheon dashboard" width="920">
+  <img src="assets/demo.gif" alt="Printheon in action" width="920">
 </p>
 
 ## Stop juggling apps
@@ -198,6 +199,12 @@ On top of that, the built-in catalogue carries the **official sheet of 254 model
 
 </details>
 
+## Free and Premium
+
+**Everything on this page is Printheon Free.** It's the full everyday app, free, with no time limit and no ads.
+
+**Printheon Premium** will come later as a separate, bigger edition for people who really know their machines and want to push them further. Many more tools, aimed at advanced users. Printheon Free doesn't lose anything because Premium exists.
+
 ## Status
 
 Printheon is in active development and **not released yet**. I'm showing it now to find out what people need most before the first public version.
@@ -206,8 +213,8 @@ Printheon is in active development and **not released yet**. I'm showing it now 
 |---|---|
 | **Platform** | Windows desktop app |
 | **Language** | Spanish today, English next |
-| **Price** | Free. No paid features, no subscriptions |
-| **Support** | A Patreon is coming for anyone who wants to help. Supporters get thanks and early betas, never locked features |
+| **Editions** | Printheon Free (everything shown here) and, later, Printheon Premium for advanced users |
+| **Support** | A Patreon is coming for anyone who wants to help the project grow |
 
 ## Have your say
 
