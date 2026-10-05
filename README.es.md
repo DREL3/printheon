@@ -19,6 +19,11 @@
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/descarga-v1.0.0-2ea44f?style=flat-square" alt="Descargar v1.0.0"></a>
 </p>
 
+> [!TIP]
+> 🎉 **¡Ya está aquí Printheon Free 1.0.0!** Una app gratuita de Windows para controlar, laminar, calibrar y diagnosticar tus impresoras FDM, en español e inglés.
+> **[⬇️ Descargar Printheon Free 1.0.0](../../releases/latest)** · instalador o portable · [Novedades](CHANGELOG.md)
+
+
 <p align="center">
   <a href="README.md"><b>🇬🇧 Read in English</b></a> ·
   <a href="#lo-que-sustituye">Lo que sustituye</a> ·

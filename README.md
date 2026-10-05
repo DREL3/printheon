@@ -19,6 +19,11 @@
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/download-v1.0.0-2ea44f?style=flat-square" alt="Download v1.0.0"></a>
 </p>
 
+> [!TIP]
+> 🎉 **Printheon Free 1.0.0 is out!** One free Windows app to control, slice, calibrate and diagnose your FDM printers, in English and Spanish.
+> **[⬇️ Download Printheon Free 1.0.0](../../releases/latest)** · installer or portable · [What's new](CHANGELOG.md)
+
+
 <p align="center">
   <a href="README.es.md"><b>🇪🇸 Leer en español</b></a> ·
   <a href="#what-it-replaces">What it replaces</a> ·
