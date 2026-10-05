@@ -1,0 +1,28 @@
+name: "🆘 Get help / Pedir ayuda"
+description: "A problem with your printer or with Printheon. / Un problema con tu impresora o con Printheon."
+title: "[Ayuda] "
+labels: ["ayuda"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what's going on in as much detail as you can. Everything here is public: don't post personal data, IPs, serial numbers or keys.
+        Cuéntanos qué pasa con el mayor detalle posible. Todo lo que escribas aquí es público: no pongas datos personales, IP, números de serie ni claves.
+  - type: textarea
+    id: problema
+    attributes:
+      label: "What's happening? / ¿Qué pasa?"
+      description: "What you were trying to do and what happens instead. / Qué intentabas hacer y qué ocurre en su lugar."
+    validations:
+      required: true
+  - type: textarea
+    id: probado
+    attributes:
+      label: "What have you tried? / ¿Qué has probado ya?"
+      description: "Steps, settings or parts you've already changed. / Pasos, ajustes o piezas que ya has cambiado."
+  - type: textarea
+    id: diagnostico
+    attributes:
+      label: "Printer details / Datos de la impresora"
+      description: "Filled in by the app (model, connection, firmware and version). Never includes IPs, serial numbers or keys. / Los rellena la app. Nunca incluye IP, números de serie ni claves."
+      render: text

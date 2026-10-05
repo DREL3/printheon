@@ -1,0 +1,39 @@
+name: "🖨️ Add my printer / Proponer una impresora"
+description: "A printer that isn't in Printheon's catalogue. / Una impresora que no está en el catálogo de Printheon."
+title: "[Impresora] "
+labels: ["impresora-nueva"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search first: if someone already asked for it, give it a 👍 instead of opening a new one. We only add printers with their OFFICIAL specs checked, so a link to the manufacturer's page helps a lot.
+        Busca primero: si alguien ya la ha pedido, apóyala con un 👍. Solo añadimos impresoras con su ficha OFICIAL comprobada: un enlace a la página del fabricante ayuda muchísimo.
+  - type: input
+    id: marca
+    attributes:
+      label: "Brand / Marca"
+      placeholder: "Creality"
+    validations:
+      required: true
+  - type: input
+    id: modelo
+    attributes:
+      label: "Model / Modelo"
+      placeholder: "Ender 3 V3 SE"
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: "Firmware"
+      placeholder: "Marlin, Klipper, manufacturer's own… / propio del fabricante…"
+  - type: input
+    id: enlace
+    attributes:
+      label: "Official model page / Página oficial del modelo"
+      placeholder: "https://… (manufacturer's spec sheet / ficha técnica del fabricante)"
+  - type: textarea
+    id: notas
+    attributes:
+      label: "Anything else? / Algo más"
+      description: "Build volume, max temperatures, connection… whatever you know. / Volumen, temperaturas máximas, conexión… lo que sepas."

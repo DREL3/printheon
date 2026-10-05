@@ -1,0 +1,25 @@
+name: "🐞 Report a bug / Informar de un fallo"
+description: "Something in Printheon that doesn't work as it should. / Algo de Printheon que no funciona como debe."
+title: "[Fallo] "
+labels: ["fallo"]
+body:
+  - type: textarea
+    id: pasos
+    attributes:
+      label: "How to reproduce it / Cómo reproducirlo"
+      placeholder: |
+        1. I open… / Abro…
+        2. I click… / Pulso…
+        3. This happens… / Ocurre…
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: "What did you expect? / Qué esperabas que pasara"
+  - type: textarea
+    id: diagnostico
+    attributes:
+      label: "Printer details / Datos de la impresora"
+      description: "Filled in by the app (model, connection, firmware and version). Never includes IPs, serial numbers or keys. / Los rellena la app. Nunca incluye IP, números de serie ni claves."
+      render: text
