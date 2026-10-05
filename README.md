@@ -226,8 +226,8 @@ Printheon is **practically finished**. Printheon Free will be available to downl
 
 | | |
 |---|---|
-| **Platform** | Windows desktop app |
-| **Language** | Spanish today, English next |
+| **Platform** | Windows desktop app: installer or portable (no install needed), runs from the system tray |
+| **Language** | English and Spanish, chosen when installing (and changeable in Settings) |
 | **Editions** | Printheon Free, and Printheon Premium (👑 features) included in the Founder tier on Patreon |
 | **Support** | [Patreon](https://www.patreon.com/DREL3): Supporter, Beta Tester and Founder tiers |
 

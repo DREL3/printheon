@@ -226,8 +226,8 @@ Printheon está **prácticamente terminada**. Printheon Free se podrá descargar
 
 | | |
 |---|---|
-| **Plataforma** | App de escritorio para Windows |
-| **Idioma** | Español; el inglés viene después |
+| **Plataforma** | App de escritorio para Windows: instalador o portable (sin instalar), se queda en la bandeja del sistema |
+| **Idioma** | Español e inglés, se elige al instalar (y se cambia en Ajustes) |
 | **Ediciones** | Printheon Free, y Printheon Premium (lo marcado con 👑) incluido en el nivel Fundador de Patreon |
 | **Apoyo** | [Patreon](https://www.patreon.com/DREL3): niveles Apoyo, Beta Tester y Fundador |
 

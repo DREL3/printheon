@@ -1,0 +1,11 @@
+name: "💬 Chat / Charla y comentarios"
+description: "Show your prints, share opinions or comment. / Enseña tus impresiones, opina o comenta."
+title: "[Charla] "
+labels: ["charla"]
+body:
+  - type: textarea
+    id: mensaje
+    attributes:
+      label: "Message / Mensaje"
+    validations:
+      required: true

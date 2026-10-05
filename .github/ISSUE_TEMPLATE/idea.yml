@@ -1,0 +1,12 @@
+name: "💡 Ideas / Ideas y mejoras"
+description: "Something you'd like Printheon to do. / Algo que te gustaría que hiciera Printheon."
+title: "[Idea] "
+labels: ["sugerencia"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: "Your idea / Tu idea"
+      description: "What you'd like and what it would help you with. / Qué te gustaría y para qué te serviría."
+    validations:
+      required: true
