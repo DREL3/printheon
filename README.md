@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/printers-350%2B%20models%20%26%20variants-ff7a1a?style=flat-square" alt="350+ printers">
   <img src="https://img.shields.io/badge/brands-58-ff7a1a?style=flat-square" alt="58 brands">
   <img src="https://img.shields.io/badge/connections-8%20types-ff7a1a?style=flat-square" alt="8 connection types">
-  <img src="https://img.shields.io/badge/edition-Free%20%C2%B7%20Premium%20coming-2ea44f?style=flat-square" alt="Free edition, Premium coming">
+  <img src="https://img.shields.io/badge/edition-Free%20%C2%B7%20Premium-2ea44f?style=flat-square" alt="Free and Premium editions">
   <img src="https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square" alt="Windows">
-  <img src="https://img.shields.io/badge/status-in%20development-lightgrey?style=flat-square" alt="In development">
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/download-v1.0.0-2ea44f?style=flat-square" alt="Download v1.0.0"></a>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ Comes in two editions: **Printheon Free**, free for everyone, and **Printheon Pr
 ## Features
 
 ### 🎛️ Full control, for every printer
-Temperatures, axes, fans, lights, emergency stop, and speed and flow changes live mid-print. Live camera and snapshots, plus automatic timelapses 👑 *Premium*. Files and print queues, plus **farm mode** 👑 *Premium*: one dashboard for all your printers and a queue that sends each job to the next free machine.
+Temperatures, axes, fans, lights, emergency stop, and speed and flow changes live mid-print. Live camera and snapshots, plus automatic timelapses 👑 *Premium*. Files, a print queue per printer 👑 *Premium*, and **farm mode** 👑 *Premium*: one dashboard for all your printers and a queue that sends each job to the next free machine.
 
 <img src="screenshots/control.png" alt="Printer control" width="860">
 
@@ -209,8 +209,8 @@ On top of that, the built-in catalogue carries the **official sheet of 254 model
 
 | Printheon Free | Printheon Premium 👑 |
 |---|---|
-| Control of every printer, camera and files | Everything in Free |
-| Printer info read automatically | Farm mode: one board for all printers and a queue that feeds the next free one |
+| Control of up to 3 printers, camera and files | Everything in Free, with as many printers as you own |
+| Printer info read automatically | Print queue per printer, and farm mode: one board for all printers and a queue that feeds the next free one |
 | 13 automatic printer tests, error codes and guided fixes | AI spaghetti detection with automatic pause |
 | Unclogging and filament changes | Automatic calibration: PID, input shaper, bed mesh, saved babystep |
 | Official safety limits on every command | Automatic configuration backups |
@@ -222,7 +222,7 @@ Premium is included in the **Founder** tier on [Patreon](https://www.patreon.com
 
 ## Status
 
-Printheon is **practically finished**. Printheon Free will be available to download from [Releases](../../releases) very soon; star the repo to get notified.
+**Printheon Free 1.0.0 is out.** [Download it from Releases](../../releases/latest): the installer (recommended) or the portable version, which runs without installing. Windows may warn about an unknown publisher the first time: click *More info → Run anyway*.
 
 | | |
 |---|---|

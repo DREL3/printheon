@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/impresoras-m%C3%A1s%20de%20350%20modelos%20y%20variantes-ff7a1a?style=flat-square" alt="Más de 350 impresoras">
   <img src="https://img.shields.io/badge/marcas-58-ff7a1a?style=flat-square" alt="58 marcas">
   <img src="https://img.shields.io/badge/conexiones-8%20tipos-ff7a1a?style=flat-square" alt="8 tipos de conexión">
-  <img src="https://img.shields.io/badge/edici%C3%B3n-Free%20%C2%B7%20Premium%20en%20camino-2ea44f?style=flat-square" alt="Edición Free, Premium en camino">
+  <img src="https://img.shields.io/badge/edici%C3%B3n-Free%20%C2%B7%20Premium-2ea44f?style=flat-square" alt="Ediciones Free y Premium">
   <img src="https://img.shields.io/badge/plataforma-Windows-0078d4?style=flat-square" alt="Windows">
-  <img src="https://img.shields.io/badge/estado-en%20desarrollo-lightgrey?style=flat-square" alt="En desarrollo">
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/descarga-v1.0.0-2ea44f?style=flat-square" alt="Descargar v1.0.0"></a>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ Hay dos ediciones: **Printheon Free**, gratis para todos, y **Printheon Premium*
 ## Funciones
 
 ### 🎛️ Control total, con cualquier impresora
-Temperaturas, ejes, ventiladores, luces, parada de emergencia, y velocidad y flujo en directo a mitad de impresión. Cámara en directo y fotos, y timelapses automáticos 👑 *Premium*. Archivos y colas de impresión, y además **modo granja** 👑 *Premium*: un panel con todas tus impresoras y una cola que manda cada trabajo a la siguiente que quede libre.
+Temperaturas, ejes, ventiladores, luces, parada de emergencia, y velocidad y flujo en directo a mitad de impresión. Cámara en directo y fotos, y timelapses automáticos 👑 *Premium*. Archivos, cola de impresión por impresora 👑 *Premium*, y además **modo granja** 👑 *Premium*: un panel con todas tus impresoras y una cola que manda cada trabajo a la siguiente que quede libre.
 
 <img src="screenshots/control.png" alt="Control de la impresora" width="860">
 
@@ -209,8 +209,8 @@ Además, el catálogo integrado trae la **ficha oficial de 254 modelos y 102 var
 
 | Printheon Free | Printheon Premium 👑 |
 |---|---|
-| Control de todas las impresoras, cámara y archivos | Todo lo de Free |
-| Ficha de la impresora leída automáticamente | Modo granja: un tablero con todas y una cola que alimenta a la siguiente libre |
+| Control de hasta 3 impresoras, cámara y archivos | Todo lo de Free, con todas las impresoras que tengas |
+| Ficha de la impresora leída automáticamente | Cola de impresión por impresora, y modo granja: un tablero con todas y una cola que alimenta a la siguiente libre |
 | 13 pruebas automáticas, códigos de error y soluciones guiadas | Detección de espagueti con IA y pausa automática |
 | Desatascar y cambiar filamento | Calibración automática: PID, input shaper, malla, babystep guardado |
 | Límites oficiales de seguridad en cada orden | Copias automáticas de la configuración |
@@ -222,7 +222,7 @@ Premium va incluido en el nivel **Fundador** de [Patreon](https://www.patreon.co
 
 ## Estado
 
-Printheon está **prácticamente terminada**. Printheon Free se podrá descargar muy pronto desde [Releases](../../releases); dale una estrella al repositorio para enterarte.
+**Ya está aquí Printheon Free 1.0.0.** [Descárgala desde Releases](../../releases/latest): el instalador (recomendado) o la versión portable, que se abre sin instalar. Windows puede avisar de «editor desconocido» la primera vez: pulsa *Más información → Ejecutar de todas formas*.
 
 | | |
 |---|---|
