@@ -40,23 +40,25 @@ Un laminador. El panel web de la impresora. Una app del móvil para la cámara. 
 
 Dos modos, una app. **Sencillo** para quien solo quiere imprimir. **Avanzado** para quien quiere todos los parámetros, todas las calibraciones y una granja de impresoras entera.
 
+Hay dos ediciones: **Printheon Free**, gratis para todos, y **Printheon Premium**, para quien quiere llevar su impresora más lejos. Lo marcado con 👑 es Premium.
+
 ## Lo que sustituye
 
 | Lo que usas hoy | En Printheon |
 |---|---|
 | Cura / PrusaSlicer / OrcaSlicer | **Laminador integrado** con el motor de OrcaSlicer y perfiles de tu impresora exacta |
 | Mainsail, Fluidd, OctoPrint, Bambu Studio, PrusaLink | **Un solo panel de control** para todas tus impresoras, tengan el firmware que tengan |
-| Servicios de detección de fallos en la nube | **Detección de espagueti con IA que funciona en tu PC**, sin nube ni suscripción |
+| Servicios de detección de fallos en la nube | **Detección de espagueti con IA que funciona en tu PC**, sin nube 👑 *Premium* |
 | Hojas de cálculo de bobinas | **Inventario de filamento** que descuenta cada impresión solo |
 | Foros y YouTube cuando algo se rompe | **Pruebas automáticas de la impresora, buscador de códigos de error, 25 soluciones guiadas y 46 guías de reparación** |
-| Piezas de calibración y copiar números a mano | **Calibraciones que se lanzan, se aplican y se guardan solas** |
-| Calculadoras de costes en internet | **Coste real por pieza y presupuestos** con margen, IVA y seguimiento de encargos |
+| Piezas de calibración y copiar números a mano | **Calibraciones que se lanzan, se aplican y se guardan solas** 👑 *Premium* |
+| Calculadoras de costes en internet | **Coste real por pieza y presupuestos** con margen, IVA y seguimiento de encargos 👑 *Premium* |
 | Printables / Thingiverse en otra pestaña | **Buscador de modelos dentro de la app**, a un clic de laminar |
 
 ## Funciones
 
 ### 🎛️ Control total, con cualquier impresora
-Temperaturas, ejes, ventiladores, luces, parada de emergencia, y velocidad y flujo en directo a mitad de impresión. Cámara en directo, fotos y timelapses automáticos. Archivos y colas de impresión, y además **modo granja**: un panel con todas tus impresoras y una cola que manda cada trabajo a la siguiente que quede libre.
+Temperaturas, ejes, ventiladores, luces, parada de emergencia, y velocidad y flujo en directo a mitad de impresión. Cámara en directo y fotos, y timelapses automáticos 👑 *Premium*. Archivos y colas de impresión, y además **modo granja** 👑 *Premium*: un panel con todas tus impresoras y una cola que manda cada trabajo a la siguiente que quede libre.
 
 <img src="screenshots/control.png" alt="Control de la impresora" width="860">
 
@@ -80,35 +82,35 @@ Le dices el síntoma y elige el método que funciona: purgado en caliente, extru
 <img src="screenshots/unclog.png" alt="Asistente de desatasco" width="860">
 
 ### 🎯 Calibraciones que terminan el trabajo
-- **PID automático** de boquilla y cama: se lanza, se aplica y se guarda, sin copiar números.
-- **Compensación de vibraciones (input shaper)** con el acelerómetro de la impresora: mide cada eje y elige el mejor filtro.
-- **Z offset con un folio**, y **babystep que se guarda para siempre**.
-- **Malla de la cama**: medirla, verla y guardarla.
+- **PID automático** de boquilla y cama: se lanza, se aplica y se guarda, sin copiar números. 👑 *Premium*
+- **Compensación de vibraciones (input shaper)** con el acelerómetro de la impresora: mide cada eje y elige el mejor filtro. 👑 *Premium*
+- **Z offset con un folio**, y **babystep que se guarda para siempre** 👑 *Premium*.
+- **Malla de la cama**: verla, y medirla y guardarla desde la app 👑 *Premium*.
 - Guías de pasos del extrusor, pressure advance y tensión de correas.
 
 <img src="screenshots/calibration.png" alt="Calibración" width="860">
 
 ### 👁️ Vigila cada impresión
-- **Detección de espagueti con IA en la cámara**, funcionando en tu propio ordenador. Puede pausar la impresión antes de que se pierda una bobina entera.
+- **Detección de espagueti con IA en la cámara**, funcionando en tu propio ordenador. Puede pausar la impresión antes de que se pierda una bobina entera. 👑 *Premium*
 - **Vigilancia de la telemetría**: temperatura que se pierde a mitad de impresión, calentadores que no llegan, un termistor suelto, una impresión que no avanza, una conexión que se cae o una cámara tapada.
-- **Avisos al móvil** por Telegram, Discord o ntfy.
+- **Avisos al móvil** por Telegram, Discord o ntfy. 👑 *Premium*
 
 <img src="screenshots/failure-detection.png" alt="Vigilancia de fallos" width="860">
 
 ### 🛡️ Firmware y copias de seguridad
 - Ficha de firmware de cada modelo: la versión oficial, cómo actualizarla, los firmwares de la comunidad con sus riesgos reales y los problemas conocidos.
-- Avisos de actualización para Klipper, Bambu Lab y OctoPrint.
-- **Copias automáticas de la configuración** (printer.cfg y macros, config de RRF, EEPROM de Marlin), listas para restaurar si una actualización sale mal.
+- Avisos de actualización para Klipper, Bambu Lab y OctoPrint. 👑 *Premium*
+- **Copias automáticas de la configuración** (printer.cfg y macros, config de RRF, EEPROM de Marlin), listas para restaurar si una actualización sale mal. 👑 *Premium*
 
 <img src="screenshots/firmware.png" alt="Firmware y copias de seguridad" width="860">
 
 ### 🖨️ Y todo lo que rodea a la impresión
-- **Laminador** con el motor de OrcaSlicer y perfiles oficiales, comparador A/B de perfiles y el coste de cada pieza.
+- **Laminador** con el motor de OrcaSlicer, perfiles oficiales y el coste de cada pieza. Todos los parámetros del motor, comparador A/B y lotes 👑 *Premium*.
 - **Modelos 3D**: Printables y Thingiverse por categorías dentro de la app, tu propia biblioteca y laminar con un clic. Enlaces a MakerWorld, Thangs, Cults3D, MyMiniFactory y más.
 - **Bobinas**: inventario por material, color y peso. Cada impresión se descuenta sola y te avisa antes de que se acabe.
 - **Historial y estadísticas** de todas tus impresiones.
 - **Mantenimiento** con avisos según las horas de uso: engrase, correas, boquilla.
-- **Presupuestos y encargos** con coste real, margen e IVA, para quien vende impresiones.
+- **Presupuestos y encargos** con coste real, margen e IVA, para quien vende impresiones. 👑 *Premium*
 - **Asistente de primera impresión**: de la caja a la primera pieza buena, comprobando todo por el camino.
 - Buscador de todo con **Ctrl + K**, exportación de perfiles y copia de seguridad de toda la app.
 
@@ -201,20 +203,33 @@ Además, el catálogo integrado trae la **ficha oficial de 254 modelos y 102 var
 
 ## Free y Premium
 
-**Todo lo que ves en esta página es Printheon Free.** Es la app completa para el día a día, gratis, sin límite de tiempo y sin anuncios.
+**Printheon Free** es la app completa para el día a día, gratis, sin límite de tiempo y sin anuncios. Todo lo que protege tu impresora o te saca de un apuro es gratis, y lo seguirá siendo.
 
-**Printheon Premium** llegará más adelante como una edición aparte y más grande, para quien de verdad entiende su máquina y quiere llevarla más lejos. Muchas más herramientas, pensadas para usuarios avanzados. Printheon Free no pierde nada porque exista Premium.
+**Printheon Premium** desbloquea las herramientas que exprimen tu impresora o te ayudan a ganar dinero con ella. Las funciones bloqueadas se siguen viendo en la app, para que siempre sepas lo que hay.
+
+| Printheon Free | Printheon Premium 👑 |
+|---|---|
+| Control de todas las impresoras, cámara y archivos | Todo lo de Free |
+| Ficha de la impresora leída automáticamente | Modo granja: un tablero con todas y una cola que alimenta a la siguiente libre |
+| 13 pruebas automáticas, códigos de error y soluciones guiadas | Detección de espagueti con IA y pausa automática |
+| Desatascar y cambiar filamento | Calibración automática: PID, input shaper, malla, babystep guardado |
+| Límites oficiales de seguridad en cada orden | Copias automáticas de la configuración |
+| Laminador con perfiles oficiales | Laminador avanzado: todos los parámetros, comparador A/B, lotes |
+| Buscador de modelos, bobinas, historial y mantenimiento | Avisos al móvil (Telegram, Discord, ntfy) y timelapses |
+| Guías de calibración manual y Z offset con folio | Avisos de firmware, presupuestos y encargos |
+
+Premium va incluido en el nivel **Fundador** de [Patreon](https://www.patreon.com/DREL3).
 
 ## Estado
 
-Printheon está en pleno desarrollo y **todavía no está publicada**. La enseño ya para saber qué necesita más la gente antes de la primera versión pública.
+Printheon está **prácticamente terminada**. Printheon Free se podrá descargar muy pronto desde [Releases](../../releases); dale una estrella al repositorio para enterarte.
 
 | | |
 |---|---|
 | **Plataforma** | App de escritorio para Windows |
 | **Idioma** | Español; el inglés viene después |
-| **Ediciones** | Printheon Free (todo lo que ves aquí) y, más adelante, Printheon Premium para usuarios avanzados |
-| **Apoyo** | Habrá un Patreon para quien quiera ayudar a que el proyecto crezca |
+| **Ediciones** | Printheon Free, y Printheon Premium (lo marcado con 👑) incluido en el nivel Fundador de Patreon |
+| **Apoyo** | [Patreon](https://www.patreon.com/DREL3): niveles Apoyo, Beta Tester y Fundador |
 
 ## Tu opinión cuenta
 

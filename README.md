@@ -40,23 +40,25 @@ A slicer. The printer's web panel. A phone app for the camera. A spaghetti detec
 
 Two modes, one app. **Simple** for people who just want to print. **Advanced** for people who want every parameter, every calibration and a whole print farm.
 
+Comes in two editions: **Printheon Free**, free for everyone, and **Printheon Premium** for people who want to push their printers further. Features marked 👑 are Premium.
+
 ## What it replaces
 
 | What you use today | In Printheon |
 |---|---|
 | Cura / PrusaSlicer / OrcaSlicer | **Built-in slicer** on the OrcaSlicer engine, with profiles for your exact printer |
 | Mainsail, Fluidd, OctoPrint, Bambu Studio, PrusaLink | **One control panel** for every printer you own, whatever its firmware |
-| Cloud failure-detection services | **Spaghetti detection with AI that runs on your PC.** No cloud, no subscription |
+| Cloud failure-detection services | **Spaghetti detection with AI that runs on your PC.** No cloud 👑 *Premium* |
 | Spool spreadsheets | **Filament inventory** that subtracts every print on its own |
 | Forums and YouTube when it breaks | **Automatic printer tests, error code lookup, 25 guided fixes and 46 repair guides** |
-| Calibration prints and copying numbers by hand | **Calibrations that run, apply and save the result** |
-| Online cost calculators | **Real cost per part and quotes** with margin, VAT and order tracking |
+| Calibration prints and copying numbers by hand | **Calibrations that run, apply and save the result** 👑 *Premium* |
+| Online cost calculators | **Real cost per part and quotes** with margin, VAT and order tracking 👑 *Premium* |
 | Printables / Thingiverse in a browser tab | **Model search inside the app**, one click to slice |
 
 ## Features
 
 ### 🎛️ Full control, for every printer
-Temperatures, axes, fans, lights, emergency stop, and speed and flow changes live mid-print. Live camera, snapshots and automatic timelapses. Files and print queues, plus **farm mode**: one dashboard for all your printers and a queue that sends each job to the next free machine.
+Temperatures, axes, fans, lights, emergency stop, and speed and flow changes live mid-print. Live camera and snapshots, plus automatic timelapses 👑 *Premium*. Files and print queues, plus **farm mode** 👑 *Premium*: one dashboard for all your printers and a queue that sends each job to the next free machine.
 
 <img src="screenshots/control.png" alt="Printer control" width="860">
 
@@ -80,35 +82,35 @@ Tell it the symptom and it picks the method that works: hot purge, pulse extrusi
 <img src="screenshots/unclog.png" alt="Unclog assistant" width="860">
 
 ### 🎯 Calibration that finishes the job
-- **PID autotune** for nozzle and bed: run, apply and save, no copying numbers.
-- **Input shaper** with the printer's accelerometer: measures each axis and picks the best filter.
-- **Z offset with a sheet of paper**, and **babystepping you can save for good**.
-- **Bed mesh**: measure, see and save it.
+- **PID autotune** for nozzle and bed: run, apply and save, no copying numbers. 👑 *Premium*
+- **Input shaper** with the printer's accelerometer: measures each axis and picks the best filter. 👑 *Premium*
+- **Z offset with a sheet of paper**, and **babystepping you can save for good** 👑 *Premium*.
+- **Bed mesh**: see it, and measure and save it from the app 👑 *Premium*.
 - Guides for E-steps, pressure advance and belt tension.
 
 <img src="screenshots/calibration.png" alt="Calibration" width="860">
 
 ### 👁️ Watches every print
-- **AI spaghetti detection on the camera**, running locally on your computer. It can pause the print before it wastes a whole spool.
+- **AI spaghetti detection on the camera**, running locally on your computer. It can pause the print before it wastes a whole spool. 👑 *Premium*
 - **Telemetry watch**: temperature lost mid-print, heaters that never get there, a loose thermistor, a print that stopped advancing, a dropped connection, a covered camera.
-- **Alerts on your phone** through Telegram, Discord or ntfy.
+- **Alerts on your phone** through Telegram, Discord or ntfy. 👑 *Premium*
 
 <img src="screenshots/failure-detection.png" alt="Failure detection" width="860">
 
 ### 🛡️ Firmware and backups
 - A firmware sheet for each model: the official version, how to update it, community firmwares with their real risks, and known problems.
-- Update alerts for Klipper, Bambu Lab and OctoPrint.
-- **Automatic configuration backups** (printer.cfg and macros, RRF config, Marlin EEPROM), ready to restore if an update goes wrong.
+- Update alerts for Klipper, Bambu Lab and OctoPrint. 👑 *Premium*
+- **Automatic configuration backups** (printer.cfg and macros, RRF config, Marlin EEPROM), ready to restore if an update goes wrong. 👑 *Premium*
 
 <img src="screenshots/firmware.png" alt="Firmware and backups" width="860">
 
 ### 🖨️ And everything around the print
-- **Slicer** on the OrcaSlicer engine with official profiles, an A/B profile comparison and the cost of every part.
+- **Slicer** on the OrcaSlicer engine with official profiles and the cost of every part. Every engine parameter, A/B profile comparison and batches 👑 *Premium*.
 - **3D models**: browse Printables and Thingiverse by category inside the app, save them to your library and slice in one click. Links to MakerWorld, Thangs, Cults3D, MyMiniFactory and more.
 - **Spools**: inventory by material, colour and weight. Each print is subtracted automatically, and you get a warning before a spool runs out.
 - **History and statistics** of every print.
 - **Maintenance** reminders by printing hours: lubrication, belts, nozzle.
-- **Quotes and orders** with real cost, margin and VAT, for anyone selling prints.
+- **Quotes and orders** with real cost, margin and VAT, for anyone selling prints. 👑 *Premium*
 - **First print wizard**: from the box to the first good part, checking everything on the way.
 - Search everything with **Ctrl + K**, export your profiles, and back up the whole app.
 
@@ -201,20 +203,33 @@ On top of that, the built-in catalogue carries the **official sheet of 254 model
 
 ## Free and Premium
 
-**Everything on this page is Printheon Free.** It's the full everyday app, free, with no time limit and no ads.
+**Printheon Free** is the full everyday app, free, with no time limit and no ads. Everything that protects your printer or gets you out of trouble is free, and always will be.
 
-**Printheon Premium** will come later as a separate, bigger edition for people who really know their machines and want to push them further. Many more tools, aimed at advanced users. Printheon Free doesn't lose anything because Premium exists.
+**Printheon Premium** unlocks the tools that squeeze more out of your printer or help you make money with it. Locked features stay visible in the app, so you always know what's there.
+
+| Printheon Free | Printheon Premium 👑 |
+|---|---|
+| Control of every printer, camera and files | Everything in Free |
+| Printer info read automatically | Farm mode: one board for all printers and a queue that feeds the next free one |
+| 13 automatic printer tests, error codes and guided fixes | AI spaghetti detection with automatic pause |
+| Unclogging and filament changes | Automatic calibration: PID, input shaper, bed mesh, saved babystep |
+| Official safety limits on every command | Automatic configuration backups |
+| Slicer with official profiles | Advanced slicer: every parameter, A/B comparison, batches |
+| Model search, spools, history, maintenance | Phone alerts (Telegram, Discord, ntfy) and timelapses |
+| Manual calibration guides and Z offset with paper | Firmware update alerts, quotes and orders |
+
+Premium is included in the **Founder** tier on [Patreon](https://www.patreon.com/DREL3).
 
 ## Status
 
-Printheon is in active development and **not released yet**. I'm showing it now to find out what people need most before the first public version.
+Printheon is **practically finished**. Printheon Free will be available to download from [Releases](../../releases) very soon; star the repo to get notified.
 
 | | |
 |---|---|
 | **Platform** | Windows desktop app |
 | **Language** | Spanish today, English next |
-| **Editions** | Printheon Free (everything shown here) and, later, Printheon Premium for advanced users |
-| **Support** | A Patreon is coming for anyone who wants to help the project grow |
+| **Editions** | Printheon Free, and Printheon Premium (👑 features) included in the Founder tier on Patreon |
+| **Support** | [Patreon](https://www.patreon.com/DREL3): Supporter, Beta Tester and Founder tiers |
 
 ## Have your say
 
