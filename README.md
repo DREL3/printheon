@@ -30,7 +30,8 @@
   <a href="#features">Features</a> ·
   <a href="#every-printer">Every printer</a> ·
   <a href="#free-and-premium">Free and Premium</a> ·
-  <a href="#status">Status</a>
+  <a href="#status">Status</a> ·
+  <a href="#faq">FAQ</a>
 </p>
 
 <p align="center">
@@ -235,6 +236,29 @@ Premium is included in the **Founder** tier on [Patreon](https://www.patreon.com
 | **Language** | English and Spanish, chosen when installing (and changeable in Settings) |
 | **Editions** | Printheon Free, and Printheon Premium (👑 features) included in the Founder tier on Patreon |
 | **Support** | [Patreon](https://www.patreon.com/DREL3): Supporter, Beta Tester and Founder tiers |
+
+## FAQ
+
+**Is it really free?**
+Yes. Printheon Free has no time limit, no ads and no account. It handles up to 3 printers. Premium (👑) is for people who want more: more printers, print queue, farm mode, AI failure detection and the rest of the crowned features.
+
+**Does it need the internet or a cloud account?**
+No. Printheon talks to your printers directly on your local network (or by USB). Nothing about your printers or your prints is sent anywhere. Internet is only used if you search for models, read the community or check for updates.
+
+**Windows says "unknown publisher". Is it safe?**
+The app isn't code-signed yet, so Windows SmartScreen warns about it the first time. Click *More info → Run anyway*. You can check the download against the SHA-256 checksums published with each release.
+
+**Can it damage my printer?**
+It's built not to. Every command goes through the official limits of your model (maximum temperatures, build volume, speeds), and it only moves or heats the printer when you ask it to. It never flashes firmware on its own.
+
+**Which printers does it work with?**
+Anything running Klipper (Moonraker), Marlin (USB or ESP3D), RepRapFirmware, PrusaLink or OctoPrint, plus Bambu Lab and the Elegoo Centauri Carbon 2 on the local network. That covers almost every FDM printer; see [Every printer](#every-printer). Printers with locked-down firmware (stock Creality K1/K2, Anycubic Kobra 3, Flashforge 5M…) need root or a community firmware for network control, and the app explains how.
+
+**Mac or Linux?**
+Windows only for now.
+
+**Where are my settings stored?**
+On your PC, in `%APPDATA%\Printheon`. You can back everything up from Settings.
 
 ## Have your say
 

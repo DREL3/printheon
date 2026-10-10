@@ -30,7 +30,8 @@
   <a href="#funciones">Funciones</a> ·
   <a href="#todas-las-impresoras">Todas las impresoras</a> ·
   <a href="#free-y-premium">Free y Premium</a> ·
-  <a href="#estado">Estado</a>
+  <a href="#estado">Estado</a> ·
+  <a href="#preguntas-frecuentes">Preguntas frecuentes</a>
 </p>
 
 <p align="center">
@@ -235,6 +236,29 @@ Premium va incluido en el nivel **Fundador** de [Patreon](https://www.patreon.co
 | **Idioma** | Español e inglés, se elige al instalar (y se cambia en Ajustes) |
 | **Ediciones** | Printheon Free, y Printheon Premium (lo marcado con 👑) incluido en el nivel Fundador de Patreon |
 | **Apoyo** | [Patreon](https://www.patreon.com/DREL3): niveles Apoyo, Beta Tester y Fundador |
+
+## Preguntas frecuentes
+
+**¿De verdad es gratis?**
+Sí. Printheon Free no caduca, no tiene anuncios y no pide cuenta. Maneja hasta 3 impresoras. Premium (👑) es para quien quiere más: más impresoras, cola de impresión, modo granja, detección de fallos con IA y el resto de funciones con corona.
+
+**¿Necesita internet o una cuenta en la nube?**
+No. Printheon habla directamente con tus impresoras en tu red local (o por USB). Nada de tus impresoras ni de tus impresiones sale de tu casa. Internet solo se usa si buscas modelos, lees la comunidad o compruebas si hay actualizaciones.
+
+**Windows dice «editor desconocido». ¿Es seguro?**
+La app todavía no está firmada, así que Windows SmartScreen avisa la primera vez. Pulsa *Más información → Ejecutar de todas formas*. Puedes comprobar la descarga con las huellas SHA-256 que se publican en cada versión.
+
+**¿Puede estropear mi impresora?**
+Está hecha para que no. Cada orden pasa por los límites oficiales de tu modelo (temperaturas máximas, volumen, velocidades) y solo mueve o calienta la impresora cuando tú se lo pides. Nunca flashea firmware por su cuenta.
+
+**¿Con qué impresoras funciona?**
+Con todo lo que lleve Klipper (Moonraker), Marlin (USB o ESP3D), RepRapFirmware, PrusaLink u OctoPrint, y además Bambu Lab y la Elegoo Centauri Carbon 2 en red local. Eso es casi cualquier impresora FDM; mira [Todas las impresoras](#todas-las-impresoras). Las que traen el firmware cerrado (Creality K1/K2, Anycubic Kobra 3, Flashforge 5M… de fábrica) necesitan root o un firmware de la comunidad para el control en red, y la app explica cómo.
+
+**¿Mac o Linux?**
+De momento, solo Windows.
+
+**¿Dónde se guardan mis ajustes?**
+En tu PC, en `%APPDATA%\Printheon`. Puedes hacer una copia de todo desde Ajustes.
 
 ## Tu opinión cuenta
 
